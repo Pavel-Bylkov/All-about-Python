@@ -2,6 +2,8 @@
 
 A curated list of awesome Python frameworks, libraries, software and resources.
 
+This clone from original - https://github.com/vinta/awesome-python
+
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Python](#awesome-python)
